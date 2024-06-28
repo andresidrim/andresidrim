@@ -3,7 +3,7 @@
 ## Frontend Dev Trainee
 
 - 🎓 Computer Engineering student at [CESUPA](https://www.cesupa.br/) (Centro Universitário do Pará)
-- 💼 Frontend Dev Trainee at [Zenith Inova](https://zenithinova.com.br/)
+- 💼 Frontend Junior Developer at [Zenith Inova](https://zenithinova.com.br/)
 - 🔬 Member of the Engineering Office, an extension group focused on hardware and software development
 
 <br/>
