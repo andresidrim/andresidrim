@@ -9,14 +9,8 @@
   </ul>
 </div>
 
-I'm a software engineer based in Brazil.
+Software Engineer Intern @ Microsoft
 
 Currently pursuing a B.Sc. in Computer Engineering at [Centro Universitário do Pará (CESUPA)](https://cesupa.br/).
 
-Experienced with web development.
-
-Strong interest in game development.
-
-Tech: Unity, C#, TypeScript, React, Next.js, Go.
-
-Currently learning [Raylib](https://www.raylib.com/) in C.
+Strong interest in game development and real-time graphics.
